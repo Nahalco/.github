@@ -1,2 +1,1 @@
-# .github
-Our story
+profile/README.md
