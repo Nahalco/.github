@@ -1,4 +1,4 @@
-# We were Nahal
+# We were Nahal 🌳
 
 ## Our story
 
